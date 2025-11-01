@@ -1,0 +1,2 @@
+The important configuration info is in config.py. Yes, I know the point of a file extension is to tell you what the file does. Run with `python3 moleculeGeometries.py`. You need python3, pygame, and numpy.
+In chemistry class, I was learning about geometries of simple molecules, and I wasn't convinced that a bipyramid was the lowest energy state for an atom bonded to seven other atoms, so I wrote this simulation (it is the lowest energy state).
